@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Eenadu banner ads
 // @namespace    https://raw.githubusercontent.com/shastry-chamarthi/userscripts/master/eenadu.js
-// @version      0.1
+// @version      0.2
 // @description  Clean eenadu.net site and read peacefully
 // @author       You
 // @match        https://*.eenadu.net/*
