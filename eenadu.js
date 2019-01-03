@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Clean eenadu.net site and read peacefully
 // @author       You
-// @match        http://*.eenadu.net/*
+// @match        https://*.eenadu.net/*
 // @grant        none
 // ==/UserScript==
 
